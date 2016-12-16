@@ -1,0 +1,33 @@
+.photo-gallery {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.photo-gallery a {
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+  width: 50%;
+  border: 5px solid black;
+  margin: auto;
+  background-color: #183460;
+}
+
+img {
+  border: 2px solid white;
+  padding: 3px;
+  background-color: #183460;
+}
+body {
+  background-color: #39547f;
+}
+
+header, footer {
+  font-family: sans-serif;
+  background-color: darkgrey;
+  border: 2.5px solid black;
+  padding: 25px;
+  margin: 25px auto;
+}
